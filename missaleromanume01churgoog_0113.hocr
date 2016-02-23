@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./missaleromanume01churgoog_0113.png"; bbox 0 0 1185 1575; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 591 584 933 652">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 591 584 933 652">
+     <span class='ocr_line' id='line_1_1' title="bbox 591 584 933 652; baseline 0.003 -17"><span class='ocrx_word' id='word_1_1' title='bbox 591 644 596 646; x_wconf 17' lang='grc' dir='ltr'>μ</span> <span class='ocrx_word' id='word_1_2' title='bbox 618 605 800 652; x_wconf 43' lang='lat' dir='ltr'><strong>J¹⁴jffifflpnhlum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 809 584 883 643; x_wconf 46' lang='grc' dir='ltr'><strong>εονῑὲῖι,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 904 589 905 593; x_wconf 18' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_5' title='bbox 932 643 933 646; x_wconf 16' lang='grc' dir='ltr'><strong>Ἴ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 434 1089 934 1306">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 434 1089 924 1233">
+     <span class='ocr_line' id='line_1_2' title="bbox 434 1089 920 1126; baseline 0.012 -10"><span class='ocrx_word' id='word_1_6' title='bbox 434 1098 440 1124; x_wconf 71' lang='lat' dir='ltr'><em>j</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 455 1089 559 1128; x_wconf 42' lang='lat'><strong>*⁸³³2</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 628 1091 738 1122; x_wconf 74' lang='lat' dir='ltr'><strong>·²1⁵osT</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 752 1091 920 1123; x_wconf 65' lang='lat' dir='ltr'><strong>mssffl.‘l&#39;,&#39;&#39;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 501 1179 924 1229; baseline 0.019 -11"><span class='ocrx_word' id='word_1_10' title='bbox 501 1200 507 1210; x_wconf 57' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 618 1179 924 1229; x_wconf 49' lang='grc' dir='ltr'><strong>,ε-»Μυι-,Μῑ</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 507 1230 934 1306">
+     <span class='ocr_line' id='line_1_4' title="bbox 507 1230 923 1278; baseline 0.022 -8"><span class='ocrx_word' id='word_1_12' title='bbox 507 1232 519 1239; x_wconf 72' lang='grc'>”</span> <span class='ocrx_word' id='word_1_13' title='bbox 551 1230 923 1278; x_wconf 39' lang='grc' dir='ltr'><strong>Ῥὲῧιψώαἵὲξᾞῖῗ““</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 591 1281 934 1306; baseline 0 -1"><span class='ocrx_word' id='word_1_14' title='bbox 591 1291 599 1302; x_wconf 64' lang='grc' dir='ltr'><strong>ν</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 615 1281 663 1305; x_wconf 69' lang='lat'>1⁸¹5!-</span> <span class='ocrx_word' id='word_1_16' title='bbox 834 1290 863 1304; x_wconf 64' lang='lat' dir='ltr'><strong>vu</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 886 1291 934 1306; x_wconf 56' lang='lat' dir='ltr'><strong>«unu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 224 140 963 1364">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 224 140 963 1364">
+     <span class='ocr_line' id='line_1_6' title="bbox 224 140 963 1364; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 224 140 963 1364; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
